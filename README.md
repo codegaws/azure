@@ -1,5 +1,11 @@
 # AZURE
-[Ver Roadmap Interactivo](https://codegaws.github.io/azure/roadmap.html)
+# ☁️ Azure Cloud Engineer - Roadmap y Recursos
+
+Este repositorio contiene mi ruta de aprendizaje para convertirme en Cloud Engineer especializado en Azure.
+
+## 📚 Roadmap
+
+📄 **[Ver Roadmap completo (PDF)](./Cloud-Engineer-Roadmap.pdf)**
 <details>
   <summary><strong>FUNDAMENTALS-AZ900</strong></summary>
   ¿QUE ES CLOUD COMPUTING?
