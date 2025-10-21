@@ -33,7 +33,14 @@ Este repositorio contiene mi ruta de aprendizaje para convertirme en Cloud Engin
 
     -  Control de los activos sensibles en tu infraestructura privada.
     -  Felixibilidad y rentabilidad de cloud publico.
+
+    ## 5 CARACTERISTICAS DEL CLOUD COMPUTING ☁️
+
+    ```text
     
+    -  Autoservicio bajo demanda : Los usuarios pueden aprovisionar recursos y utilizarlos sin intereaccion humana del proveedor de servicios
+    
+    ```
 
 
     
