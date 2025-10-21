@@ -8,7 +8,7 @@ Este repositorio contiene mi ruta de aprendizaje para convertirme en Cloud Engin
 📄 **[Ver Roadmap completo (PDF)](./Cloud-Engineer-Roadmap.pdf)**
 <details>
   <summary><strong>FUNDAMENTALS-AZ900</strong></summary>
-  ¿QUE ES CLOUD COMPUTING?
+  ☁️ ☁️ ¿QUE ES CLOUD COMPUTING?
   
   - Suministro bajo de demanda (On demand)- potencia de calculo , almacenamiento de bases de datos,aplicaciones.
   
