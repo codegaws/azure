@@ -6,6 +6,7 @@ Este repositorio contiene mi ruta de aprendizaje para convertirme en Cloud Engin
 ## 📚 Roadmap
 
 📄 **[Ver Roadmap completo (PDF)](./Cloud-Engineer-Roadmap.pdf)**
+📄 **[Ver FUNDAMENTALS completo (PDF)](./AZ-900.pdf)**
 <details>
   <summary><strong>FUNDAMENTALS-AZ900</strong></summary>
   ☁️ ☁️ ¿QUE ES CLOUD COMPUTING?
